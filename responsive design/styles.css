@@ -462,3 +462,9 @@ div.footer h6 {
   }
   
 }
+
+@media screen and (min-width: 770px){
+   .mobilenav{
+     display:none;
+ }
+}
