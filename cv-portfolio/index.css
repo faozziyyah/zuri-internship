@@ -700,7 +700,7 @@ hr.white{
 }
 
 .first{
-  margin: 6em auto;
+  margin: 10em auto;
   margin-bottom: 2em;
 }
 
@@ -719,7 +719,7 @@ hr.white{
   display: flex;
   flex-direction: column;
   width: 100%;
-  margin-top: -5em;
+  margin-top: 3em;
   margin-bottom: 0;
 }
 
@@ -746,7 +746,7 @@ hr.white{
 }
 
 .third{
-  margin-top: -10em;
+  margin-top: 3em;
   padding-bottom: 1em;
 }
 
