@@ -706,6 +706,7 @@ hr.white{
 }
 
 .left, .right{
+  margin-top: 10em;
   margin: 4em auto;
   margin-left: 2em;
   margin-right: 2em;
@@ -747,8 +748,8 @@ hr.white{
 }
 
 .third{
-  margin-top: 8em;
-  padding-bottom: 1em;
+  margin-top: 14em;
+  padding-bottom: 3em;
 }
 
 .projects-gallery{
