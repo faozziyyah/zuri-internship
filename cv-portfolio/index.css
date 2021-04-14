@@ -702,7 +702,7 @@ hr.white{
 .first{
   margin: 10em auto;
   margin-bottom: 2em;
-  margin-top: 20em;
+  margin-top: 30em;
 }
 
 .left, .right{
@@ -722,7 +722,7 @@ hr.white{
   flex-direction: column;
   width: 100%;
   margin-top: 3em;
-  margin-bottom: 10em;
+  margin-bottom: 20em;
 }
 
 .group {
